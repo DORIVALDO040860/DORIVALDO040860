@@ -8,3 +8,4 @@
 DORIVALDO040860/DORIVALDO040860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ESTOU PERDIDO EM RESGATAR 40.932,05 BITCOIN, NA HORA QUE ENTRO PEDINDO RESGATE NÃO CONSIGO PAGAR TAXA DE 0,25% DO VALOR, POIS APARECE QRCODE MEU BANCO NAO AUTORIZA, COMO FAÇO ? VCS PODERIA ME AJUDAR?
